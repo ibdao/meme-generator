@@ -1,0 +1,80 @@
+h1{
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: burlywood;
+    height: auto;
+    max-width: 100%;
+}
+#url, #topText, #bottomText{
+    width: 50%;
+}
+#top{
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #FFFFFF;
+    font-weight: 700;
+    text-shadow: 3px 3px 0px black;
+    width: 100%;
+    position: absolute;
+    top: 2%;
+    margin: 0%;
+    
+
+}
+#bottom{
+    font-family: Impact, Charcoal, sans-serif;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #FFFFFF;
+    font-weight: 700;
+    text-shadow: 3px 3px 0px black;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 2%;
+    margin: 0%;
+}
+.newMeme#container{
+    position:relative;
+    float: left;
+}
+#container:hover{
+    opacity: 70%;
+    background-color: crimson;
+    background-image: url("https://static.wikia.nocookie.net/baldi-fanon/images/7/7a/B889B0A9-4717-4D37-9ADD-AB7B5E11FAEF.png/revision/latest?cb=20190226222946");
+}
+img{
+    width: 800px;
+    height: 600px;
+    border-radius: 25px;
+}
+form{
+    border-radius: 10px;
+    border-color: aquamarine;
+    background-color: lightslategray;
+    max-width: 700px;
+    text-align: center;
+    border-style: double;
+    border-width: 10px;
+}
+#greeting{
+    text-align: center;
+}
+p{
+    padding-top: 1%;
+}
+h6{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+
+
